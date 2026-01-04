@@ -1,5 +1,6 @@
 # Cat Photo App
 Check out the live site: [View Cat Photo App] (https://maryglance.github.io/cat-photo-app/)
+
 This is a simple HTML project created as part of the freeCodeCamp Responsive Web Design course.
 ## Features
 - Basic HTML structure
